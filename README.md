@@ -2,6 +2,8 @@
 
 This project demonstrates the creation and transfer of NFTs (Non-Fungible Tokens) using smart contracts and a web front-end. The application allows users to create new NFTs, transfer ownership of NFTs to other addresses, and retrieve a list of owned NFTs.
 
+The project is also hosted on [Netlify](https://willowy-donut-8a0e19.netlify.app/) and can be accessed live.
+
 ## Features
 
 - Create new NFTs by providing a product name.
